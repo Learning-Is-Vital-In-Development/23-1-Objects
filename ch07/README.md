@@ -1,10 +1,3 @@
----
-marp : true
-backgroundColor: #FFFFF0
-theme: base-theme
-_class: lead
-paginate: true
----
 
 ## ****7장 기능 분해****
 
